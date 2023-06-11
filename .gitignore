@@ -1,0 +1,4 @@
+__pycache__
+model_pretrained/geotr.pth
+model_pretrained/illtr.pth
+model_pretrained/seg.pth
